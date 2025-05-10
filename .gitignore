@@ -1,0 +1,14 @@
+# Qt目录
+.Debug/
+
+# Qt Creator 的用户配置文件
+*.pro.user*
+*.qbs.user*
+*.creator.user*
+*.creator.*
+
+# 编译生成的文件和中间文件
+*.o
+*.obj
+*.so
+*.a
